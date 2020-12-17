@@ -917,3 +917,23 @@ button {
   left: 50%;
   position: absolute;
 }
+
+.C1text {
+  border: 0px solid white;
+  width: 700px;
+  text-align: center;
+  font-size: 20px;
+  position: absolute;
+  top: 60%;
+  left: 25%;
+}
+
+.C1 {
+  border: 0px solid white;
+  width: 200px;
+  text-align: center;
+  font-size: 20px;
+  position: absolute;
+  top: 70%;
+  left: 38%;
+}
